@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Brad Dougherty</string>
+	<key>Builder Version</key>
+	<string>11601.2.7.2</string>
+	<key>CFBundleDisplayName</key>
+	<string>Hide Twitter Polls</string>
+	<key>CFBundleIdentifier</key>
+	<string>is.brad.HideTwitterPolls</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Content Blocker</key>
+		<string>blocks.json</string>
+	</dict>
+	<key>Description</key>
+	<string>Hide all tweets with polls.</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Update Manifest URL</key>
+	<string>https://raw.githubusercontent.com/bdougherty/HideTwitterPolls/master/updates.plist</string>
+	<key>Website</key>
+	<string>https://github.com/bdougherty/HideTwitterPolls</string>
+</dict>
+</plist>

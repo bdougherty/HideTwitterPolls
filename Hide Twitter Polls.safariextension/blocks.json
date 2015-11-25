@@ -1,0 +1,11 @@
+[
+	{
+		"trigger": {
+			"url-filter": "twitter.com"
+		},
+		"action": {
+			"selector": "[data-card2-type=\"poll2choice_text_only\"]",
+			"type": "css-display-none"
+		}
+	}
+]
